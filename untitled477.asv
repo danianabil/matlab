@@ -1,0 +1,7 @@
+x = 4:8;
+for k = 1:5
+square(k) = x(k)^2;
+cube(k) = x(k)^3;
+end
+disp(['The square of numbers [4:8]: ' num2str(square)])
+disp(['The cube of numbers [4:8]: ' num2str(cube)])

@@ -1,0 +1,7 @@
+clc
+clear all
+
+for 4:8;
+    a=x(k)^2
+    b=x(k)^3
+end

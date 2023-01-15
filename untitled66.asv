@@ -1,0 +1,4 @@
+clc
+clear all
+n=input('enter the number')
+if mod(n,2)==0

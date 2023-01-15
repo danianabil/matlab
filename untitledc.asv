@@ -1,0 +1,4 @@
+clc 
+clear all
+sum=0;
+for 
